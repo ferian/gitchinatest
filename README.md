@@ -1,4 +1,0 @@
-gitchinatest
-============
-
-www.githubchina.org
